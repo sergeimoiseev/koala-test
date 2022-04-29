@@ -7,4 +7,5 @@ six==1.11.0
 scipy>=1.0.0
 python-dateutil==2.8.0
 backports.functools_lru_cache==1.5
+jupyterlab
 git+https://git.big3.ru/mw/mw-coala.git@master#egg=koala2
